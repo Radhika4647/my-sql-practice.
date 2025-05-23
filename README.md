@@ -10,4 +10,4 @@ I'm using SQLite and VS Code to learn basic SQl concept like:
   ## Tools used:
   - SQlite
   - VS Code
-  - SQLitw Extension(alexcvzz)
+  - SQLite Extension(alexcvzz)
